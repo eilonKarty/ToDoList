@@ -14,12 +14,6 @@
         android:layout_centerHorizontal="true"
         android:weightSum="1">
 
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/edtNewItem"
-            android:hint="Enter an item to be added to the list" />
-
         <ListView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

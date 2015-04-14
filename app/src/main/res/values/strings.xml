@@ -2,4 +2,6 @@
     <string name="app_name">ToDoList</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_add">Add</string>
+    <string name="title_activity_add_new_todo_item">AddNewTodoItemActivity</string>
+    <string name="action_settings">Settings</string>
 </resources>
